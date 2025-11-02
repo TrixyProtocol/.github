@@ -14,7 +14,7 @@
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
-  <a href="https://x.com/trixyprotocol" target="_blank" style='margin-right:10px'>
+  <a href="https://x.com/trixy_fun" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://github.com/user-attachments/assets/e08651e8-6f42-41a3-b319-4e0213960060" alt="twitter" height="22px" width="22px" />
   </a>
 </p>
